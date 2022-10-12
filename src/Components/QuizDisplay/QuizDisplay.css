@@ -1,0 +1,8 @@
+.button:hover {
+    background-color: blue;
+    color: white;
+}
+
+.btn-circle:hover {
+    background-color: aqua;
+}
